@@ -40,6 +40,7 @@ As a versatile and dedicated software engineer, I specialize in a diverse range 
 <a href="https://youtu.be/EX_WDrPVv5c">
     <img src="https://ytcards.demolab.com/?id=EX_WDrPVv5c&title=My+YouTube+Video&lang=en&timestamp=1689174033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=601" alt="How to make CICD PIPELINE">
 </a>
+#
 <a href="https://www.youtube.com/channel/UCpPtFZl_U-9GIyWogU_V20Q?sub_confirmation=1">
     <img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white" alt="Subscribe For More">
 </a>
