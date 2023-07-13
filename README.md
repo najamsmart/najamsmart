@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 🧰 Languages and Tools
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
@@ -33,5 +35,15 @@ Here are some ideas to get you started:
 ### About Me 
 As a versatile and dedicated software engineer, I specialize in a diverse range of technical skills that include AI, mobile and web development, DevOps, Flutter, and 3D design.
 
-### My Youtube video
+### 📺 Latest YouTube Videos
+[![CICD PIPELINE](https://ytcards.demolab.com/?id=WFRvz7LDUeI&title=How+to+Level+Up+Your+Programming&lang=en&timestamp=1689174033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=601 "How to make CICD PIPELINE")](https://youtu.be/EX_WDrPVv5c)
 https://youtu.be/EX_WDrPVv5c
+
+
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
