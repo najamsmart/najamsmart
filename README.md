@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Syed Najam!
 
 <!--
 **najamsmart/najamsmart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About Me 
+As a versatile and dedicated software engineer, I specialize in a diverse range of technical skills that include AI, mobile and web development, DevOps, Flutter, and 3D design.
+
+### My Youtube video
+https://youtu.be/EX_WDrPVv5c
