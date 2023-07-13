@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 As a versatile and dedicated software engineer, I specialize in a diverse range of technical skills that include AI, mobile and web development, DevOps, Flutter, and 3D design.
 
 ### 📺 Latest YouTube Videos
-[![CICD PIPELINE](https://ytcards.demolab.com/?id=EX_WDrPVv5c&title=My+YouTube+Video&lang=en&timestamp=1689174033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=601
- "How to make CICD PIPELINE")]
-https://youtu.be/EX_WDrPVv5c
+![CICD PIPELINE](https://ytcards.demolab.com/?id=EX_WDrPVv5c&title=My+YouTube+Video&lang=en&timestamp=1689174033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=601
+ "How to make CICD PIPELINE")
+
 
 
 ### 📊 Status
