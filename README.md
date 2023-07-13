@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-#
+<hr>
 
 ### About Me 
 As a versatile and dedicated software engineer, I specialize in a diverse range of technical skills that include AI, mobile and web development, DevOps, Flutter, and 3D design.
