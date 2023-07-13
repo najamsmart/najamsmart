@@ -42,7 +42,7 @@ As a versatile and dedicated software engineer, I specialize in a diverse range 
 https://youtu.be/EX_WDrPVv5c
 
 
-### 📊 Stats
+### 📊 Status
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=najamsmart&show_icons=true&theme=gruvbox)
 
